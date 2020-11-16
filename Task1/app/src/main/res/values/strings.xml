@@ -1,0 +1,26 @@
+<resources>
+<!-- Title of app -->
+<string name="app_name">Dos Activities</string>
+
+<!-- Title of second activity -->
+<string name="activity2_name">Segundo Activity</string>
+
+<!-- Message header text (in second activity) [CHAR LIMIT=30]-->
+<string name="text_header">Mensaje Recibido</string>
+
+<!-- Button label in main activity [CHAR LIMIT=10]-->
+<string name="button_main">Enviar</string>
+
+<!-- Hint for message edit text in main activity [CHAR LIMIT=30]-->
+<string name="editText_main">Ingresa tu mensaje</string>
+
+<!-- Button label in second activity [CHAR LIMIT=10]-->
+<string name="button_second">Responder</string>
+
+<!-- Hint for reply edit text in second activity [CHAR LIMIT=30]-->
+<string name="editText_second">Ingresa tu respuesta</string>
+
+<!-- Reply header text in main activity [CHAR LIMIT=30]-->
+<string name="text_header_reply">Respuesta Recibida</string>
+
+</resources>
