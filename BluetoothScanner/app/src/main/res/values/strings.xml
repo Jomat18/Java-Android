@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BluetoothScanner</string>
+    <string name="button_connect">Conectado</string>
+    <string name="button_disconnect">Disconectado</string>
+    <string name="title_devices">Dispositivos</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Escanear</string>
+    <string name="stopScan">Stop Scanning</string>
+</resources>
